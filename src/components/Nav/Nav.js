@@ -19,7 +19,7 @@ function Nav() {
   })
 
 return (
-<div className="Ul">
+<div className="Div">
   <ul>{left} {right}</ul>
  
 </div>

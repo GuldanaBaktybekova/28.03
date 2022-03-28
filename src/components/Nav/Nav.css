@@ -1,3 +1,10 @@
-.Ul {
+ul {
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+.Div {
+  padding: 10px;
+  box-shadow: 5px 2px grey;
 }
